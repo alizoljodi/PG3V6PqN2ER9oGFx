@@ -30,7 +30,7 @@ We developed a **Gradient Boosting Classifier** as our first solution:
 ### Step 2: High-Precision Model for Future Engagement
 We trained a **Linear Discriminant Analysis (LDA)** model as our second solution:
 - **Objective**: Identify customers who are more likely to accept the offer in future calls, even if they declined initially.
-- **Performance**: Achieved an accuracy of **92.6%**, providing a high-precision tool to focus on potential customers and improve success rates in subsequent interactions.
+- **Performance**: Achieved an accuracy of **86.6%**, providing a high-precision tool to focus on potential customers and improve success rates in subsequent interactions.
 
 ### Step 3: Customer Clustering and Success Analysis
 A clustering algorithm was applied to segment customers based on shared features:
