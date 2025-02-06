@@ -38,11 +38,6 @@ A clustering algorithm was applied to segment customers based on shared features
 - **Outcome**: These clusters provide actionable insights for targeted engagement strategies and optimized resource allocation.
 
 ## Tableau Visualization
-- Significant reduction in wasted employee hours.
-- Enhanced targeting of potential customers through precision-driven models.
-- Data-driven strategies for improved campaign outcomes and increased conversion rates.
-- 
-## Key Benefits
 To support data-driven decision-making, we created a Tableau dashboard that visually represents key insights from the dataset, model performance, and customer segmentation. The dashboard enables:
 - **Interactive Filtering:**: Explore customer segments and their likelihood of subscribing.
 - **Call Success Analysis:**: Visualize call durations, success rates, and employee time utilization.
