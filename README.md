@@ -43,7 +43,8 @@ To support data-driven decision-making, we created a Tableau dashboard that visu
 - **Call Success Analysis:**: Visualize call durations, success rates, and employee time utilization.
 - **Customer Clustering Insights:**: Understand distinct customer groups and their engagement patterns.
 
-You can view the Tableau dashboard here: ![Tableau Link][https://public.tableau.com/app/profile/ali.zoljodi/viz/term_deposit_feature_analysis/Dashboard2?publish=yes]
+You can view the Tableau dashboard here: 
+![Tableau Link][https://public.tableau.com/app/profile/ali.zoljodi/viz/term_deposit_feature_analysis/Dashboard2?publish=yes]
 
 
 ## Tools and Techniques
